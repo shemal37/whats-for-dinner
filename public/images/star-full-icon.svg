@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="34px" height="33px" viewBox="0 0 34 33" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>C9F475B3-7655-42FC-9810-AE7ECAA3C1F8</title>
+    <defs>
+        <linearGradient x1="50%" y1="0.285050676%" x2="50%" y2="99.5565878%" id="linearGradient-1">
+            <stop stop-color="#74AF80" offset="0%"></stop>
+            <stop stop-color="#4E7B57" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Sage_Simple_Homepage_1_@2x" transform="translate(-703.000000, -2497.000000)">
+            <g id="REVIEWS" transform="translate(120.000000, 2392.000000)">
+                <g id="STARS" transform="translate(499.500000, 105.719229)">
+                    <g id="STARS_FULL" transform="translate(83.999999, 0.000000)">
+                        <polygon id="Path-26" fill="#4E7B57" points="12.2895678 12.167465 16.3372628 1.56319402e-13 20.255254 12.167465 32.7857436 12.167465 22.5376557 19.659562 26.5800175 31.759128 16.3372628 24.0298097 6.0779257 31.1989273 9.92172133 19.659562 -1.07291953e-12 12.167465"></polygon>
+                        <polygon id="Path-6" fill="url(#linearGradient-1)" points="16.3928718 4.52970994e-13 12.2895678 12.167465 0 12.167465 9.92172133 19.659562 6.0779257 31.1989273 20.255254 12.167465"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
